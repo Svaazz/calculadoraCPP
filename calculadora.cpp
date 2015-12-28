@@ -5,7 +5,7 @@ using namespace std;
 
 int sum(){
 	int sumandos = 0;
-	int suma[] = {0,0,0};
+	int suma[] = {};
 	int resultado = 0;
 	cout<<"Cuantos sumandos? " << endl;
 	cin>>sumandos;
