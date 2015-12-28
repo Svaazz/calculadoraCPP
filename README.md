@@ -1,3 +1,3 @@
 # calculadoraCPP
-Hecha por Svaazz y AgathonXXI
-Calculadora en C++
+###Calculadora en C++
+######Por Svaazz y AgathonXXI
